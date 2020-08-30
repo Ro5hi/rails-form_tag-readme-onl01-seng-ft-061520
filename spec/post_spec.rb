@@ -11,4 +11,3 @@ describe 'new post' do
     expect(page).to have_content('Post Form')
   end
 end
-© 2020 GitHub, Inc.
